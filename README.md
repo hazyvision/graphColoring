@@ -8,5 +8,6 @@ GraphColoring
 
 
 +Input:  The order of a graph to be randomly created and tested.
+
 +Output: Returns the number of colors used for the greedy algorithm.
         Also, returns the amount of nodes created from the backtracking algorithm.
